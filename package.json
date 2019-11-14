@@ -1,0 +1,38 @@
+{
+  "name": "youtu-get",
+  "version": "1.0.7",
+  "description": "This package can get your all name of songs and url from your youtube playlist",
+  "main": "./src/main.js",
+  "scripts": {
+    "ytget": "node ./cli.js",
+    "test": "jest --coverage",
+    "test:watch": "jest --watch --silent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frantallukas10/youtu-get.git"
+  },
+  "keywords": [
+    "youtube",
+    "playlist",
+    "songs",
+    "name of songs",
+    "youtube playlist",
+    "youtube url"
+  ],
+  "author": "Ing. Lukáš Frantál <frantal.lukas10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frantallukas10/youtu-get/issues"
+  },
+  "homepage": "https://frantallukas10.github.io/youtu-get",
+  "bin": {
+    "ytget": "./cli.js"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}

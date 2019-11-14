@@ -1,0 +1,1918 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing youtu-get package 
+Testing getYoutubeInfo function with correct inputs
+youtube playlist id: PLxQ30nUCB0uNCCKBD_JW1udM7iYH27cu2 1`] = `
+Array [
+  Object {
+    "id": "A1Fw2ml8Wvs",
+    "name": "ZUZANA_SMATANOVÁ_-_Bergen_[Official_lyric_video]",
+  },
+  Object {
+    "id": "3ltmSC7ShxM",
+    "name": "Dennis_Lloyd_-_Snow_White",
+  },
+  Object {
+    "id": "TmoCZKgowCk",
+    "name": "Lil_Nas_X_ft_Billy_Ray_Cyrus_-_Old_Town_Road_(DJ_Zinc_Remix)",
+  },
+  Object {
+    "id": "ry9nqy_WJzM",
+    "name": "Maduk_-_Colours_(ft_Diamond_Eyes)",
+  },
+  Object {
+    "id": "ZMdCOPbHdQk",
+    "name": "Ray_Charles_|_What'd_I_Say_(Papa_Django_&_Max_W_remix)",
+  },
+  Object {
+    "id": "C63AbbfiFEw",
+    "name": "Lullaby_by_Joakim_Karud_(official)",
+  },
+  Object {
+    "id": "q1DXnIyMnOY",
+    "name": "Joakim_Karud_-_I'll_Be_There",
+  },
+  Object {
+    "id": "rQO8escJC78",
+    "name": "Joakim_Karud_-_Dreams",
+  },
+  Object {
+    "id": "kNCn2-B3NN8",
+    "name": "Joakim_Karud_-_Vibe_With_Me",
+  },
+  Object {
+    "id": "GmG4X9PGOXs",
+    "name": "Everyday_Normal_Guy_2",
+  },
+  Object {
+    "id": "PEUHMhKQEg8",
+    "name": "Shadow_Crooks_-_Unforgettable_(Bootleg)(FREE)",
+  },
+  Object {
+    "id": "mBHTXQo65p8",
+    "name": "Mickey_Valen_-_Meet_Me_(feat_Noé)",
+  },
+  Object {
+    "id": "kTEWf-qawQs",
+    "name": "Cassius_-_I_Love_You_So_(Original_Mix)_[HQ]",
+  },
+  Object {
+    "id": "Pej2aiHDKMo",
+    "name": "Snoop_Lion_-_Smoke_The_Weed_Feat_Collie_Buddz_[Official_Video_With_Lyrics]",
+  },
+  Object {
+    "id": "aqR3J2B09DE",
+    "name": "Adele_-_Hometown_Glory_(High_Contrast_Remix)",
+  },
+  Object {
+    "id": "ts0WO6wJB3M",
+    "name": "Fugees_-_Ready_Or_Not_(Champion_Bootleg)",
+  },
+  Object {
+    "id": "FJFDTx5rtlo",
+    "name": "Calyx_&_TeeBee_-_Takes_One_To_Know_One",
+  },
+  Object {
+    "id": "GMsZWnJzRgU",
+    "name": "Maduk_-_The_End_(ft_Voicians)",
+  },
+  Object {
+    "id": "qowIBnTXE3Q",
+    "name": "Camo_&_Krooked_-_If_I_Could_(feat_Joe_Killington)_(Official_Video)",
+  },
+  Object {
+    "id": "8RUWkv4Ray8",
+    "name": "Daughter_-_Youth_(Hybrid_Minds_Bootleg)",
+  },
+  Object {
+    "id": "4AKSpPkZAuE",
+    "name": "Hybrid_Minds_-_Touch_(ft_Tiffani_Juno)",
+  },
+  Object {
+    "id": "8er4CQCxPRQ",
+    "name": "Mage_-_The_Words_I_Never_Said",
+  },
+  Object {
+    "id": "2YLtT_evCNg",
+    "name": "The_Prototypes_-_Kill_The_Silence_(ft_Ayah_Marar)",
+  },
+  Object {
+    "id": "X795rocOihU",
+    "name": "Franklin_-_Colours_(Whiney_Remix)",
+  },
+  Object {
+    "id": "beOuR6Re7OU",
+    "name": "Neroche_-_Earth_Druid",
+  },
+  Object {
+    "id": "ktvTqknDobU",
+    "name": "Imagine_Dragons_-_Radioactive",
+  },
+  Object {
+    "id": "bLedg9eWYOA",
+    "name": "Nick_Murphy_-_Missing_Link",
+  },
+  Object {
+    "id": "fBc4qTUw8WI",
+    "name": "Kygo_–_Raging_feat_Kodaline_LYRICS",
+  },
+  Object {
+    "id": "Pk_ZXdPi3TI",
+    "name": "Tim_Legend_-_Hope_feat_Brave_(Official_Video)",
+  },
+  Object {
+    "id": "OORoOGY8D2M",
+    "name": "Cheat_Codes_x_Kris_Kross_Amsterdam_-_SEX_(Official_Music_Video)",
+  },
+  Object {
+    "id": "FwtN6sebSS8",
+    "name": "Mattix_&_Futile_-_Rising_Up",
+  },
+  Object {
+    "id": "r-SurvChGFk",
+    "name": "Skrillex_&_Poo_Bear_-_Would_You_Ever_(Official_Music_Video)",
+  },
+  Object {
+    "id": "vVKXpCirMy4",
+    "name": "Your_Way_-_Netsky_(1080p_HD)",
+  },
+  Object {
+    "id": "0ujG3ZZ57c4",
+    "name": "Eric_Prydz_-_Pjanoo_(High_Contrast_Rmx)_+_S_Angello_&_L_Luke_ft_Robin_S_-_Show_Me_Love_(Blame_Rmx)",
+  },
+  Object {
+    "id": "FM7MFYoylVs",
+    "name": "The_Chainsmokers_&_Coldplay_-_Something_Just_Like_This_(Lyric)",
+  },
+  Object {
+    "id": "GsF05B8TFWg",
+    "name": "Axwell_Λ_Ingrosso_-_More_Than_You_Know_(Official_Video)",
+  },
+  Object {
+    "id": "jPA0kU_6rQ0",
+    "name": "Fred_V_-_Catch_You",
+  },
+  Object {
+    "id": "9NwZdxiLvGo",
+    "name": "Skrillex_&_Diplo_-_To_Ü_ft_AlunaGeorge_(Official_Video)",
+  },
+  Object {
+    "id": "zrX5zrPoZoM",
+    "name": "Wilkinson_-_Half_Light_ft_Tom_Cane",
+  },
+  Object {
+    "id": "OYzCe1T_Gpg",
+    "name": "Wilkinson_-_Sweet_Lies_ft_Karen_Harding",
+  },
+  Object {
+    "id": "B0ak-Y60RoM",
+    "name": "Rudimental_-_Powerless_ft_Becky_Hill_[Official_Video]",
+  },
+  Object {
+    "id": "A7lxd7RL1To",
+    "name": "Caravan_Palace_-_Dramophone",
+  },
+  Object {
+    "id": "Dg6HQ8RlPGQ",
+    "name": "Keys_N_Krates_-_Dum_Dee_Dum_(JiKay_Remix)_[OFFICIAL]",
+  },
+  Object {
+    "id": "fDrTbLXHKu8",
+    "name": "Skrillex_&_Diplo_-_Mind_feat_Kai_(Official_Video)",
+  },
+  Object {
+    "id": "FVvxZX1rhKo",
+    "name": "xKore_ft_Zoe_&_Naomi_-_Need_You_﴾͡๏̯͡๏﴿_(Centra_Remix)_[HD]",
+  },
+  Object {
+    "id": "k7mkdb5y3As",
+    "name": "Two_Feet_-_Had_Some_Drinks",
+  },
+  Object {
+    "id": "pVLmZMjxfjw",
+    "name": "Eiffel_65_-_Blue_(KNY_Factory_Remix)",
+  },
+  Object {
+    "id": "CXIiGxRMNlA",
+    "name": "Maduk_-_Voyager",
+  },
+  Object {
+    "id": "KDPW_g2AhAU",
+    "name": "Rudimental_-_Free_ft_Emeli_Sandé_[Official_Video]",
+  },
+  Object {
+    "id": "4vZuqqo1KW4",
+    "name": "Command_Strange_-_Summer_Time",
+  },
+  Object {
+    "id": "zV_wpj7ncps",
+    "name": "B-complex_ft_Jan_Werich_-__Past_Lessons_For_The_Future",
+  },
+  Object {
+    "id": "oNWOC_Pvo4w",
+    "name": "Ofenbach_-_Be_Mine_(Official_Video)",
+  },
+  Object {
+    "id": "jhCVkFG-bcQ",
+    "name": "Nobody_To_Love_-_Sigma_(Lyrics)",
+  },
+  Object {
+    "id": "Tf1kGyppBVE",
+    "name": "Duke_Dumont_feat_Jax_Jones_-_I_Got_You_(Original_Mix)_[LYRICS]",
+  },
+  Object {
+    "id": "inmKB1yBa_E",
+    "name": "Mike_Posner_-_I_Took_a_Pill_In_Ibiza_(Seeb_Remix)",
+  },
+  Object {
+    "id": "y2_444f65F4",
+    "name": "Free_Yourself_~_Liquid_Drum_&_Bass_Mix_2015_#1",
+  },
+  Object {
+    "id": "8j741TUIET0",
+    "name": "X_Ambassadors_-_Renegades_(Lyric_Video)",
+  },
+  Object {
+    "id": "Y1_VsyLAGuk",
+    "name": "Burak_Yeter_-_Tuesday_(Official_Music_Video)_ft_Danelle_Sandoval",
+  },
+  Object {
+    "id": "O4-6Y_91v5I",
+    "name": "Florence_+_The_Machine_-_Spectrum_(Say_My_Name)_(Calvin_Harris_remix)",
+  },
+  Object {
+    "id": "0our0dmb4tA",
+    "name": "sam_-_urban_samurai(FREE_FLOW_FLAVA_final_round)mp3",
+  },
+  Object {
+    "id": "8RuEsQx0NbE",
+    "name": "In_my_mind_-_Axwell",
+  },
+  Object {
+    "id": "HcXN3i1Jb-A",
+    "name": "Parov_Stelar_ft_Muddy_Waters_-_Soul_Fever_Blues",
+  },
+  Object {
+    "id": "Bd1CUTrcy5U",
+    "name": "Dub_FX_-_So_Are_You_[Official_Video_2016]",
+  },
+  Object {
+    "id": "a0EyM0rk0BQ",
+    "name": "Halsey_-_Gasoline_(Oscar_Trap_Remix)",
+  },
+  Object {
+    "id": "oMRZp7cp79g",
+    "name": "C2C_-_Who_Are_You_(feat_Olivier_Daysoul)",
+  },
+  Object {
+    "id": "awEo3fqVPP0",
+    "name": "Parov_Stelar_-_Everything_Of_My_Heart_(Official_Video)",
+  },
+  Object {
+    "id": "6FEDrU85FLE",
+    "name": "Crazy_Town_-_Butterfly_(Official_Video)",
+  },
+  Object {
+    "id": "fBGSJ3sbivI",
+    "name": "Caravan_Palace_-_Rock_It_For_Me",
+  },
+  Object {
+    "id": "iP-86de-oUA",
+    "name": "C2C_-_DMC_DJ_team_World_Champions_2005_set_@C2Cdjs_(Album_Now_Available)",
+  },
+  Object {
+    "id": "GvyNyFXHj4k",
+    "name": "Queens_of_the_Stone_Age_-_The_Way_You_Used_to_Do_(Audio)",
+  },
+  Object {
+    "id": "tvY7Nw1i6Kw",
+    "name": "C2C_-_Happy_(feat_Derek_Martin)_(Official_Video)",
+  },
+  Object {
+    "id": "ymNFyxvIdaM",
+    "name": "Bomfunk_MC's_-_Freestyler_(Video_Original_Version)",
+  },
+  Object {
+    "id": "sCv-PIs-ilo",
+    "name": "Parov_Stelar_-_Step_Two_ft_Lilja_Bloom_(Official_Video)",
+  },
+  Object {
+    "id": "JaAWdljhD5o",
+    "name": "SAIL_-_AWOLNATION_(Unofficial_Video)",
+  },
+  Object {
+    "id": "hi4pzKvuEQM",
+    "name": "Chet_Faker_-_Gold_(Official_Music_Video)",
+  },
+  Object {
+    "id": "_m2zGncgLjw",
+    "name": "Gramatik_-_Hit_That_Jive_(Original_Mix)",
+  },
+  Object {
+    "id": "-BsAl6HVZ-Y",
+    "name": "Parov_Stelar_-_The_Mojo_Radio_Gang",
+  },
+  Object {
+    "id": "FB0wRki6TwU",
+    "name": "Movits!,_Timbuktu_Na_Na_Nah!",
+  },
+  Object {
+    "id": "-j7D_IeQUi8",
+    "name": "Hey_Mami_-_Sylvan_Esso_(Big_Wild_Remix)",
+  },
+  Object {
+    "id": "8oREfhB4wQ4",
+    "name": "Jakwob_ft_Rationale_-_No_Place_Like_Home_[Extended_Mix]_|_HQ",
+  },
+  Object {
+    "id": "VuVoqYjzBUc",
+    "name": "Raise_Spirit_-_Lights_Go_Down",
+  },
+  Object {
+    "id": "X56hc3e3mn0",
+    "name": "Netsky_-_I_Refuse_(Shock_One_Remix)",
+  },
+  Object {
+    "id": "GwibF4v35gw",
+    "name": "Liquid_Particles_(Liquid_Drum_&_Bass_Mix)",
+  },
+  Object {
+    "id": "dA8iUEm7pCo",
+    "name": "Wax_Tailor_Ft_Lee_Fields_-_The_Road_is_Ruff_(Official_Video)",
+  },
+  Object {
+    "id": "WgqJpTT6Pcg",
+    "name": "Marshmello_-_Alone_(DISKORD_Remix)",
+  },
+  Object {
+    "id": "CIate5jd21c",
+    "name": "Chet_Faker_-_Everything_I_Wanted",
+  },
+  Object {
+    "id": "HIfFA8-RaHQ",
+    "name": "Chet_Faker_-_No_Diggity",
+  },
+  Object {
+    "id": "iC34pKFmU9M",
+    "name": "Illenium_ft_King_Deco_-_Reverie",
+  },
+  Object {
+    "id": "D-sS0qbiItY",
+    "name": "Martin_Garrix,_Kygo_ft_Ellie_Goulding_-_Midnight_Music_Mix_2019",
+  },
+  Object {
+    "id": "aJoo79OwZEI",
+    "name": "Liquid_Drum_and_Bass_Mix_#60",
+  },
+  Object {
+    "id": "1i-zW1aTV0A",
+    "name": "Mario_-_Let_Me_Love_You_(DubRocca_Remix)",
+  },
+  Object {
+    "id": "0QorsPPm3Pg",
+    "name": "Chinese_Man_-_Liar_feat_Kendra_Morris_&_Dillon_Cooper_(Official_Music_Video)",
+  },
+  Object {
+    "id": "u3VTKvdAuIY",
+    "name": "Kygo_&_Selena_Gomez_-_It_Ain't_Me_(Official_Video)",
+  },
+  Object {
+    "id": "lwf0dTW9oUI",
+    "name": "ALLE_FARBEN_–_BAD_IDEAS_[OFFICIAL_VIDEO]",
+  },
+  Object {
+    "id": "JGwWNGJdvx8",
+    "name": "Ed_Sheeran_-_Shape_of_You_[Official_Video]",
+  },
+  Object {
+    "id": "Zv1QV6lrc_Y",
+    "name": "Martin_Garrix_-_Forbidden_Voices_(Official_Music_Video)",
+  },
+  Object {
+    "id": "g5zTRWKhPqI",
+    "name": "Dennis_Lloyd_-_Nevermind",
+  },
+  Object {
+    "id": "8cr9nRfz61c",
+    "name": "The_Griswolds_-_Beware_The_Dog_(Autograf_Remix)",
+  },
+  Object {
+    "id": "o-jb6Ac4e7Q",
+    "name": "ODESZA_-_Sun_Models_ft_Madelyn_Grant_(Unofficial_Music_Video)",
+  },
+  Object {
+    "id": "Xy3rcoz-8rU",
+    "name": "Shoffy_feat_Lincoln_Jesser_-_Takes_My_Body_Higher_(Official_Music_Video)",
+  },
+  Object {
+    "id": "ujgQOosyIYk",
+    "name": "Ryder_-_Pretty_Little_Gangster",
+  },
+  Object {
+    "id": "7KSOk0hTSyI",
+    "name": "Lazyboy_Empire_-_Vampire",
+  },
+  Object {
+    "id": "BkzvSf9NLTY",
+    "name": "Infinity_Ink_-_Infinity_(Original_Mix)",
+  },
+  Object {
+    "id": "YlzWEEgdiFE",
+    "name": "Touch_&_Go_-_Gotta_Have_U_(Original_Mix)",
+  },
+  Object {
+    "id": "_ElORM9O-0U",
+    "name": "Tal_Bachman_-_She's_So_High",
+  },
+  Object {
+    "id": "Eco4z98nIQY",
+    "name": "Parov_Stelar_-_Booty_Swing",
+  },
+  Object {
+    "id": "we9jeU76Y9E",
+    "name": "Chase_&_Status_-_Time_ft_Delilah",
+  },
+  Object {
+    "id": "eckbHlcZqKI",
+    "name": "Star_Wars_-_Cantina_Band_(Electro_Swing_Remix)",
+  },
+  Object {
+    "id": "91V0Cqx9TzM",
+    "name": "Chase_&_Status_-_Count_On_Me_ft_Moko",
+  },
+  Object {
+    "id": "zBIE8waeHCI",
+    "name": "Disclosure_-_Magnets_(A-Trak_Remix)_ft_Lorde",
+  },
+  Object {
+    "id": "qUsm3PCoGIE",
+    "name": "Nneka_-_Heartbeat_(Chase_&_Status_Remix)",
+  },
+  Object {
+    "id": "WWHInsHJ_EA",
+    "name": "You_and_I_(Zeds_Dead_&_Omar_LinX)_(Official_Music_Video)_|_Zeds_Dead",
+  },
+  Object {
+    "id": "vH_DpCYxSQQ",
+    "name": "Parov_Stelar_-_The_Sun_feat_Graham_Candy_(Klingande_Remix)",
+  },
+  Object {
+    "id": "nsrEH3U03fY",
+    "name": "Sub_Focus_-_Turn_Back_Time_(Metrik_Remix)",
+  },
+  Object {
+    "id": "cG7cRDcPY3k",
+    "name": "Netsky_-_Memory_Lane",
+  },
+  Object {
+    "id": "nutzDtjnMNg",
+    "name": "Netsky_-_Eyes_Closed",
+  },
+  Object {
+    "id": "1m2CtJEXQLA",
+    "name": "Logistics_-_City_Life_[HD]",
+  },
+  Object {
+    "id": "dSjjEzKLqPI",
+    "name": "Worakls_-_Elea",
+  },
+  Object {
+    "id": "pa5xfdd0xhE",
+    "name": "Foals_-_Late_Night_(Solomun_Remix)_[played_by_Solomun_&_HOSH]",
+  },
+  Object {
+    "id": "etMqlKxrRNo",
+    "name": "Twenty_One_Pilots_-_Ride_(Unlike_Pluto_remix)",
+  },
+  Object {
+    "id": "8MWBWrqaNdQ",
+    "name": "Big_Gigantic_-_The_Little_Things_(Kasbo_remix)",
+  },
+  Object {
+    "id": "1b2we5jOKXA",
+    "name": "Ghasper_-_Turtle_Ship",
+  },
+  Object {
+    "id": "xFOzVwjoFQE",
+    "name": "WOLFE_-_Under_the_Covers_(feat_Emma_Sameth)",
+  },
+  Object {
+    "id": "Obt-vLEJ8jo",
+    "name": "Major_Lazer_&_DJ_Snake_-_Lean_On_feat_MØ_(CRNKN_Remix)",
+  },
+  Object {
+    "id": "mBHTXQo65p8",
+    "name": "Mickey_Valen_-_Meet_Me_(feat_Noé)",
+  },
+  Object {
+    "id": "tEcggRukZCs",
+    "name": "Maduk_ft_Veela_-_Ghost_Assassin",
+  },
+  Object {
+    "id": "tCGmrFyXlGw",
+    "name": "Pogo_-_No_Worries_(Hybrid_Minds_Remix)",
+  },
+  Object {
+    "id": "B3B3t4_vnYM",
+    "name": "Hybrid_Minds_-_Touch_ft_Tiffani_Juno_(Tokyo_Prose_Remix)",
+  },
+  Object {
+    "id": "TYYNnd91iMw",
+    "name": "liquid_drum_and_bass_mix_2017",
+  },
+  Object {
+    "id": "NxpauVgmY9Y",
+    "name": "Best_Melodic_Dubstep_Mix_2014_(Chillstep)_|_100%_Best_|_Dubstep_Remix_2014",
+  },
+  Object {
+    "id": "UbQgXeY_zi4",
+    "name": "Caravan_Palace_-_Lone_Digger",
+  },
+  Object {
+    "id": "fWGD2Cr9StM",
+    "name": "Marian_Hill_-_Down",
+  },
+  Object {
+    "id": "F_hgd3e0G3U",
+    "name": "This_is_Kiteboarding",
+  },
+  Object {
+    "id": "2Y6Nne8RvaA",
+    "name": "Kungs_vs_Cookin’_on_3_Burners_-_This_Girl_(Official_Music_Video)",
+  },
+  Object {
+    "id": "aA3TRBI_FBc",
+    "name": "Thomas_Jack_-_Booka_Shake_(Original_Mix)",
+  },
+  Object {
+    "id": "KZV__HaHTEU",
+    "name": "Hippie_Sabotage_-_White_Tiger",
+  },
+  Object {
+    "id": "k-GhADMxQVc",
+    "name": "Hubba_&_Amanu_-_Moso_(Radio_Edit)",
+  },
+  Object {
+    "id": "UprcpdwuwCg",
+    "name": "twenty_one_pilots_Heathens_(from_Suicide_Squad_The_Album)_[OFFICIAL_VIDEO]",
+  },
+  Object {
+    "id": "FHccClTAdzc",
+    "name": "CAZZETTE_-_She_Wants_Me_Dead_ft_The_High_(CAZZETTE_vs_AronChupa)_[Official_Video]",
+  },
+  Object {
+    "id": "6Dzfs_gi3S4",
+    "name": "Fred_V_&_Grafix_-_Games_People_Play",
+  },
+  Object {
+    "id": "1ooPp0-UX48",
+    "name": "Keys_N_Krates_-_Dum_Dee_Dum_(Music_Video)_|_Dim_Mak_Records",
+  },
+  Object {
+    "id": "0t2tjNqGyJI",
+    "name": "Twenty_One_Pilots_-_Stressed_Out_(Tomsize_Remix)",
+  },
+  Object {
+    "id": "uo35R9zQsAI",
+    "name": "Flo_Rida_-_My_House_[Official_Video]",
+  },
+  Object {
+    "id": "lFzTY5b-Uzs",
+    "name": "Sigala_-_Easy_Love",
+  },
+  Object {
+    "id": "nOI-Ex7TKog",
+    "name": "Wiz_Khalifa_-_MAKE_A_WISH",
+  },
+  Object {
+    "id": "QGu04m6q6tM",
+    "name": "Veorra_-_Nasty_Freestyle_(Cover)",
+  },
+  Object {
+    "id": "QtXby3twMmI",
+    "name": "Coldplay_-_Adventure_Of_A_Lifetime_(Official_Video)",
+  },
+  Object {
+    "id": "KlJAiwwGHMg",
+    "name": "KSHMR_&_Marnik_-_Bazaar_(Official_Sunburn_Goa_2015_Anthem)_[Official_Music_Video]",
+  },
+  Object {
+    "id": "ozx898ADTxM",
+    "name": "Sigala_-_Easy_Love_(Official_Music_Video)",
+  },
+  Object {
+    "id": "d6ILV4hjc6U",
+    "name": "Sub_Focus_-_Last_Jungle",
+  },
+  Object {
+    "id": "Yo0Sqvp1knY",
+    "name": "Dub_FX_-_Back_To_Basics_(Krafty_Kuts_Remix)_•_Official_Video",
+  },
+  Object {
+    "id": "L3Cvv1cKoBo",
+    "name": "Koven_&_Memtrix_-_Pessimist",
+  },
+  Object {
+    "id": "Qv7HwBe28dM",
+    "name": "DUB_FX_-_Made_(FULLHD)mp4",
+  },
+  Object {
+    "id": "dMr1Xtt1e3U",
+    "name": "Tantrum_Desire_-_Oblivion_(ft_Solah)_(Official_Video)",
+  },
+  Object {
+    "id": "Yifz3X_i-F8",
+    "name": "M83_-_Wait_(Kygo_Remix)",
+  },
+  Object {
+    "id": "acHKPu4oIro",
+    "name": "Coldplay_-_Midnight_(Kygo_Remix)",
+  },
+  Object {
+    "id": "z7Bjasi12mE",
+    "name": "Milky_Chance_-_Stolen_Dance_(Embody_Remix)",
+  },
+  Object {
+    "id": "LeCGGj0Tgwg",
+    "name": "Hello_(High_Contrast_bootleg_remix)",
+  },
+  Object {
+    "id": "Czw0I2AWlfI",
+    "name": "Tep_No_-_Swear_Like_a_Sailor_(Official_Music_Video)",
+  },
+  Object {
+    "id": "NgBQJDQbeFA",
+    "name": "Henry_Krinkle_-_Stay",
+  },
+  Object {
+    "id": "eFKYHVfD2Zw",
+    "name": "Mr_Little_Jeans_-_The_Suburbs_(Arcade_Fire_Cover)_#MusicF4you",
+  },
+  Object {
+    "id": "71575jIMPsQ",
+    "name": "Ours_Samplus_-_Like_The_Sunshine",
+  },
+  Object {
+    "id": "sXepvY9krhE",
+    "name": "Ours_Samplus_-_Spell_On_You",
+  },
+  Object {
+    "id": "j_z8IFKGvq4",
+    "name": "Jetta_-_Take_It_Easy_(Matstubs_Remix)",
+  },
+  Object {
+    "id": "fG_9selSiVI",
+    "name": "Gramatik_-_A_Bunch_Of_Questions",
+  },
+  Object {
+    "id": "vUzVCw8BEXA",
+    "name": "deadmau5_&_Kaskade_-_I_Remember_[HQ]",
+  },
+  Object {
+    "id": "sGM0zArhxnk",
+    "name": "Calyx_&_TeeBee_-_Long_Gone",
+  },
+  Object {
+    "id": "2UM2Bd_XzIQ",
+    "name": "Gemini_-_Fire_Inside_(feat_Greta_Svabo_Bech)_(Mr_FijiWiji_Remix)",
+  },
+  Object {
+    "id": "O8K2QRwKq54",
+    "name": "Vanic_X_Zella_Day_-_Hypnotic",
+  },
+  Object {
+    "id": "Xq-knHXSKYY",
+    "name": "Avicii_-_For_A_Better_Day",
+  },
+  Object {
+    "id": "sAlKPEWm3Rs",
+    "name": "Klangkarussell_-_Celebrate",
+  },
+  Object {
+    "id": "L_avNTODob8",
+    "name": "Klangkarussell_-_Celebrate",
+  },
+  Object {
+    "id": "hCMGgw0v5GM",
+    "name": "KlangTherapeuten_ft_Leonard_Bywa_-_Mountain_Top_(Original_Mix)",
+  },
+  Object {
+    "id": "wD5yKGhuzqY",
+    "name": "R3HAB_&_KSHMR_-_Strong_(Official_Music_Video)",
+  },
+  Object {
+    "id": "W6cp9FakTlo",
+    "name": "Louane_-_Avenir_(Radio_Edit_Officiel)",
+  },
+  Object {
+    "id": "9_So9QyozqQ",
+    "name": "Paul_Kalkbrenner_-_Dockyard",
+  },
+  Object {
+    "id": "dr7-i9CgBmc",
+    "name": "Felix_Jaehn_-_Book_of_Love_(ft_Polina)_[Official_Single]",
+  },
+  Object {
+    "id": "aF8TNQ8BqIg",
+    "name": "Fritz_Kalkbrenner_-_Void_(Official_Video)",
+  },
+  Object {
+    "id": "iTwmVasMxCM",
+    "name": "Lost_Frequencies_-_Are_You_With_Me_(Kungs_Remix)",
+  },
+  Object {
+    "id": "J1Ol6M0d9sg",
+    "name": "La_Belle_Mixtape_|_Summer_Memories_|_Henri_Pfr",
+  },
+  Object {
+    "id": "aiumJ_nDkhs",
+    "name": "Klangkarussell_-_Sonnentanz_(Video_HD)",
+  },
+  Object {
+    "id": "cv0opIVSPAY",
+    "name": "Paul_Kalkbrenner_-_Aaron",
+  },
+  Object {
+    "id": "3jTjBt0Enyw",
+    "name": "Disclosure_-_Help_Me_Lose_My_Mind_(Mazde_Remix)",
+  },
+  Object {
+    "id": "g7foL-TjoFA",
+    "name": "Vicetone_-_I'm_On_Fire_(Official_Music_Video)",
+  },
+  Object {
+    "id": "6vopR3ys8Kw",
+    "name": "Flume_&_Chet_Faker_-_Drop_the_Game_[Official_Music_Video]",
+  },
+  Object {
+    "id": "C_90ACrQh1A",
+    "name": "Ziggy_Marley_&_Agnostica_-_Beach_in_Hawaii_(_dj_AA_'Chedi_Muscat'_mix)",
+  },
+  Object {
+    "id": "pfjOb9JJHhE",
+    "name": "MÖWE_-_Blauer_Tag_(Robin_Schulz_Remix)",
+  },
+  Object {
+    "id": "b8PPap4dJog",
+    "name": "Kygo_-_Here_for_You_(Official_Video)_ft_Ella_Henderson",
+  },
+  Object {
+    "id": "dU3r68jWp0w",
+    "name": "DVBBS_-_Never_Leave_(Official_Music_Video)",
+  },
+  Object {
+    "id": "7p9UdLyaHh4",
+    "name": "Nicolas_Haelg_-_Mind_Games",
+  },
+  Object {
+    "id": "dYc5tTvBlFE",
+    "name": "Ed_Sheeran_-_I_See_Fire_(Kygo_Remix)",
+  },
+  Object {
+    "id": "HdARC6rLURM",
+    "name": "[Ambient]_]Matt_Corby_-_Brother_(Kygo_Remix)",
+  },
+  Object {
+    "id": "yzTuBuRdAyA",
+    "name": "The_Weeknd_-_The_Hills",
+  },
+  Object {
+    "id": "knfrxj0T5NY",
+    "name": "Axel_Thesleff_-_Bad_Karma",
+  },
+  Object {
+    "id": "6rgStv12dwA",
+    "name": "Baby_Bash_ft_Frankie_J_-_Suga_Suga_(Official_Video)",
+  },
+  Object {
+    "id": "bX4ti_0i2Dw",
+    "name": "Tomsize_&_Dakat_-_Loving_You",
+  },
+  Object {
+    "id": "ugkK6_XmsaQ",
+    "name": "Max_Manie_-_Sunday_(KlangTherapeuten_Remix)",
+  },
+  Object {
+    "id": "9mnoiRqh0dQ",
+    "name": "Milky_Chance_-_Down_By_The_River_(FlicFlac_Edit)",
+  },
+  Object {
+    "id": "YbH3MhoPiSI",
+    "name": "Worakls_-_Good_night_my_love_(Joachim_Pastor_remix)_Official_video_by_Jon_Frank",
+  },
+  Object {
+    "id": "AbJLff--QxU",
+    "name": "Etherwood_-_Sunlight_Splinters_(Official_Video)",
+  },
+  Object {
+    "id": "ptzYaIT-bKI",
+    "name": "Amy_Kalea_-_Stolen_Chance_(MKJ_Remix)",
+  },
+  Object {
+    "id": "SUPduscCY5o",
+    "name": "Robert_Burian_-_BABY_[OFFICIAL_VIDEO]",
+  },
+  Object {
+    "id": "mjsz6_QnaXI",
+    "name": "Pretty_Lights_-_Lost_and_Found_(ODESZA_Remix)",
+  },
+  Object {
+    "id": "ihwzG5-W8tE",
+    "name": "Skream_&_Example_-_Shot_Yourself_In_The_Foot_Again",
+  },
+  Object {
+    "id": "YqeW9_5kURI",
+    "name": "Major_Lazer_&_DJ_Snake_-_Lean_On_(feat_MØ)_(Official_Music_Video)",
+  },
+  Object {
+    "id": "jA4f5hIPesc",
+    "name": "Mandeh_&_GuitK_-_What_I_Might_Do_(MKJ_&_Eightfold_Remix)",
+  },
+  Object {
+    "id": "dGghkjpNCQ8",
+    "name": "Calvin_Harris_-_Feel_So_Close_(Official_Video)",
+  },
+  Object {
+    "id": "qnRpxemvTx8",
+    "name": "Tiësto_Ft_Don_Diablo_-_Chemicals_(Tomorrowland_2015)",
+  },
+  Object {
+    "id": "qFDP9egTwfM",
+    "name": "Netsky_-_Rio_(Official_Video)_ft_Digital_Farm_Animals",
+  },
+  Object {
+    "id": "ilw-qmqZ5zY",
+    "name": "Lost_Frequencies_feat_Janieck_Devy_-_Reality_(Official_Music_Video)",
+  },
+  Object {
+    "id": "7docypezDXU",
+    "name": "Chet_Faker_-_I'm_Into_You_(Skala_remix)",
+  },
+  Object {
+    "id": "KSrOYPQiyFA",
+    "name": "Dr_Kucho!_&_Gregor_Salto_ft_Ane_Brun_-_Can't_Stop_Playing_(Makes_Me_High)_[Oliver_Heldens_Remix]",
+  },
+  Object {
+    "id": "AG0KuVH-iK4",
+    "name": "Mandeh_&_GuitK_-_What_I_Might_Do_(MKJ_&_Eightfold_Remix)",
+  },
+  Object {
+    "id": "T4Gm2V7RCgk",
+    "name": "Nicko_Veaz_-_Give_Me_Shelter_(ft_Jamie_Brown)",
+  },
+  Object {
+    "id": "HGw9YcxgVZc",
+    "name": "Joseph_Westphal_feat__Marie_Chain_-_Hold_My_Hand_(Original_Mix)",
+  },
+  Object {
+    "id": "YXwYJyrKK5A",
+    "name": "TWO_DOOR_CINEMA_CLUB__|_WHAT_YOU_KNOW",
+  },
+  Object {
+    "id": "oDT9_uY6iRo",
+    "name": "Misun_-_Eli_Eli_(Maduk_Remix)",
+  },
+  Object {
+    "id": "EwitrOosutQ",
+    "name": "Dub_Pistols_'Back_to_Daylight'_feat_Ashley_Slater",
+  },
+  Object {
+    "id": "4xXlxNJOpyk",
+    "name": "Joe_Stone_-_The_Party_ft_Montell_Jordan_(This_Is_How_We_Do_It)_(Firebeatz_Remix)",
+  },
+  Object {
+    "id": "bvC_0foemLY",
+    "name": "Robin_Schulz_-_Sugar_(feat_Francesco_Yates)_(OFFICIAL_MUSIC_VIDEO)",
+  },
+  Object {
+    "id": "0HENeKIztcQ",
+    "name": "Vigiland_-_Shots_&_Squats_ft_Tham_Sway",
+  },
+  Object {
+    "id": "4ZHwu0uut3k",
+    "name": "Tom_Odell_-_Another_Love_(Zwette_Edit)",
+  },
+  Object {
+    "id": "IduHwET0lmM",
+    "name": "Eels_-_I_Need_Some_Sleep_(Dwin_Remix)",
+  },
+  Object {
+    "id": "Ix8ocFEMa1o",
+    "name": "Adam_Lambert_-_Ghost_Town_[Official_Music_Video]",
+  },
+  Object {
+    "id": "C-KWJpLUNYc",
+    "name": "Feint_-_My_Sunset",
+  },
+  Object {
+    "id": "LlY90lG_Fuw",
+    "name": "Pharrell_Williams_-_Freedom_(Video)",
+  },
+  Object {
+    "id": "6CJrUJVtV-E",
+    "name": "The_Avener_&_Phoebe_Killdeer_-_Fade_out_Lines_(The_Avener_Rework)",
+  },
+  Object {
+    "id": "6teOmBuMxw4",
+    "name": "Vance_Joy_-_Riptide_(FlicFlac_Edit)",
+  },
+  Object {
+    "id": "8SQO0Uvnt_4",
+    "name": "Angus_&_Julia_Stone_-_Grizzly_Bear_(Synapson_Remix)",
+  },
+  Object {
+    "id": "MSYvsJA-Ua4",
+    "name": "Joe_Stone_-_The_Party_ft_Montell_Jordan_(This_Is_How_We_Do_It)_[Official_Music_Video]",
+  },
+  Object {
+    "id": "xSOPdyxXQ78",
+    "name": "Oleska_-_Road_Trip_(Original_Mix)",
+  },
+  Object {
+    "id": "05sm943xTjk",
+    "name": "Tep_No_-_The_Last_Ones_Standing",
+  },
+  Object {
+    "id": "4aFhtvAHCDc",
+    "name": "PETIT_BISCUIT_-_Memories",
+  },
+  Object {
+    "id": "q_3Ro5NI12E",
+    "name": "Red_Hot_Chili_Peppers_-_Scar_Tissue_(N'to_Remix)",
+  },
+  Object {
+    "id": "69qLM2aCvbg",
+    "name": "Teemid_-_Crazy_feat_Joie_Tan_(Gnarls_Barkley_Cover)",
+  },
+  Object {
+    "id": "883J6orWHYE",
+    "name": "Synapson_-_Djon_Maya_Maï_Feat_Victor_Démé_(Official_Music_Video)",
+  },
+  Object {
+    "id": "-e_3Cg9GZFU",
+    "name": "Skrillex_-_Summit_(feat_Ellie_Goulding)_[Video_by_Pilerats]",
+  },
+  Object {
+    "id": "JDglMK9sgIQ",
+    "name": "Avicii_-_The_Days_(Lyric_Video)",
+  },
+  Object {
+    "id": "bTXJQ5ql5Fw",
+    "name": "Pitbull,_Ne-Yo_-_Time_Of_Our_Lives_(Official_Video)",
+  },
+  Object {
+    "id": "-ncIVUXZla8",
+    "name": "Avicii_-_Waiting_For_Love_(Lyric_Video)",
+  },
+  Object {
+    "id": "UtF6Jej8yb4",
+    "name": "Avicii_-_The_Nights",
+  },
+  Object {
+    "id": "gx4rsZkCCss",
+    "name": "Seinabo_Sey_-_Younger_(Kygo_Remix)",
+  },
+  Object {
+    "id": "QzEwx4BoYI0",
+    "name": "Kyla_La_Grange_-_Cut_Your_Teeth_(Kygo_Remix)",
+  },
+  Object {
+    "id": "nDopn_p2wk4",
+    "name": "Syn_Cole_-_Miami_82_(Kygo_Remix)",
+  },
+  Object {
+    "id": "B_pBZ47riWA",
+    "name": "Ellie_Goulding_-_Starry_Eyed_(Max_Vangeli_&_AN21_Remix)_[OFFICIAL_VIDEO_EDIT]_HD",
+  },
+  Object {
+    "id": "lbL1lgmgUsQ",
+    "name": "Dreamers_Delight_-_Olives",
+  },
+  Object {
+    "id": "RgKAFK5djSk",
+    "name": "Wiz_Khalifa_-_See_You_Again_ft_Charlie_Puth_[Official_Video]_Furious_7_Soundtrack",
+  },
+  Object {
+    "id": "2DnOnw18u5E",
+    "name": "Kill_Paris_-_Operate_(feat_Royal)_(Illenium_Remix)",
+  },
+  Object {
+    "id": "MShHAFXn7UA",
+    "name": "Lucas_&_Steve_vs_Matt_&_Kendo_-_You_And_I_Know_(Official_Music_Video)",
+  },
+  Object {
+    "id": "0ZgjmE6xdaw",
+    "name": "Fergie_-_A_Little_Party_Never_Killed_Nobody_(All_We_Got)_ft_Q-Tip,_GoonRock",
+  },
+  Object {
+    "id": "Xv2SCjuuGt8",
+    "name": "Sigma_ft_Labrinth_-_Higher_(Official_Video)",
+  },
+  Object {
+    "id": "oAeotgCHL3E",
+    "name": "Sigma_ft_Paloma_Faith_-_Changing_(Official_Video)",
+  },
+  Object {
+    "id": "vwOGge1OvUE",
+    "name": "Nora_En_Pure_-_Come_With_Me_(Satin_Jackets_Remix)",
+  },
+  Object {
+    "id": "KP4HpgeJx9I",
+    "name": "Supermode_-_Tell_Me_Why_(Walden_Remix)",
+  },
+  Object {
+    "id": "yFLtfaJwyfw",
+    "name": "Kygo_-_Firestone_Ft_Conrad",
+  },
+  Object {
+    "id": "x597BE15h9w",
+    "name": "Paxel_-_Langa_Feat_SDY",
+  },
+  Object {
+    "id": "ytIfSuy_mOA",
+    "name": "Major_Lazer_-_Get_Free_ft_Amber_of_the_Dirty_Projectors",
+  },
+  Object {
+    "id": "IAdUzo4XmLk",
+    "name": "Michael_Calfan_-_Treasured_Soul_(Official_Music_Video)",
+  },
+  Object {
+    "id": "JhAlUuRfKJA",
+    "name": "Henri_Pfr_&_Ofenbach_-_Don't_Worry_Be_Happy_!",
+  },
+  Object {
+    "id": "iW-OUbJFnYY",
+    "name": "Armin_van_Buuren_feat_Sharon_den_Adel_-_In_And_Out_Of_Love_(Lost_Frequencies_Remix)",
+  },
+  Object {
+    "id": "VjHMDlAPMUw",
+    "name": "Lost_Frequencies_-_Are_You_With_Me_(Official_Music_Video)",
+  },
+  Object {
+    "id": "i6TMvlTppZw",
+    "name": "Robin_Schulz_vs_Martin_Solveig_&_GTA_-_Prayer_Intoxicated_(_Oliver_Heldens_Mashup)_[Original]",
+  },
+  Object {
+    "id": "5XR7naZ_zZA",
+    "name": "Galantis_-_Runaway_(U_&_I)_(Official_Video)",
+  },
+  Object {
+    "id": "1gOQiFEwnZ8",
+    "name": "Ivan_B_-_Sweaters",
+  },
+  Object {
+    "id": "Xxsdw6zG1bg",
+    "name": "Pixies_-_Where_is_my_mind_(EFIX_&_MAUGAN_KENWARD)",
+  },
+  Object {
+    "id": "jxJnIKSlZq4",
+    "name": "Vanic_X_KFlay_-_Cops",
+  },
+  Object {
+    "id": "n5-bHaoRkvU",
+    "name": "XYLØ_-_America_(Young_Bombs_Remix)_[Free]",
+  },
+  Object {
+    "id": "lm9EDzlI-So",
+    "name": "Tom_Budin_-_Where's_The_Love",
+  },
+  Object {
+    "id": "0NUb7guya5w",
+    "name": "Karen_Harding_-_Say_Something_(Official_Zac_Samuel_Remix)",
+  },
+  Object {
+    "id": "beAADKWACRg",
+    "name": "Robin_Schulz_-_Miami_2015_(Behind_the_Scenes)",
+  },
+  Object {
+    "id": "6A0XP_KlomI",
+    "name": "Wilkinson_-_Dirty_Love",
+  },
+  Object {
+    "id": "59BfMVyZK8M",
+    "name": "José_González_-_Heartbeats_(Filous_&_Mount_Remix)",
+  },
+  Object {
+    "id": "8B93tgRxMuE",
+    "name": "Gorgon_City_ft_MNEK_-_Ready_For_Your_Love_(Official_Video)",
+  },
+  Object {
+    "id": "kcZMCMI24gs",
+    "name": "Oliver_Heldens_X_Becky_Hill_-_Gecko_(Overdrive)_[Official_Video]",
+  },
+  Object {
+    "id": "hqwU7nv3hTM",
+    "name": "The_Avener,_Phoebe_Killdeer_-_Fade_Out_Lines_(Official_Music_Video)",
+  },
+  Object {
+    "id": "TW9uj83Vq-0",
+    "name": "Kwabs_-_Walk_(Official_Video)",
+  },
+  Object {
+    "id": "fmQxJzhR_48",
+    "name": "Timmy_Trumpet_&_Savage_-_Freaks_OFFICIAL_VIDEO_HD",
+  },
+  Object {
+    "id": "6Gm2OUhcJ94",
+    "name": "Shawn_Mendes_-_Life_Of_The_Party_(Kayliox_Remix)",
+  },
+  Object {
+    "id": "pb73wJoU2vY",
+    "name": "ZHU_-_Paradise_Awaits_(FKJ_Remix)",
+  },
+  Object {
+    "id": "vAEwLvxHVVk",
+    "name": "Robin_Schulz_-_Headlights_[feat_Ilsey]_[Official_Video]",
+  },
+  Object {
+    "id": "122RDDIjJNU",
+    "name": "Neo_Cartoon_Lover_-_New_Sounds",
+  },
+  Object {
+    "id": "HJb0VYVtaNc",
+    "name": "Calvin_Harris_-_Blame_(Audio)_ft_John_Newman",
+  },
+  Object {
+    "id": "4HTbkrfhCj8",
+    "name": "David_Guetta_-_Dangerous_[Robin_Schulz_Remix]",
+  },
+  Object {
+    "id": "oBQtRgdTWcA",
+    "name": "Clean_Bandit_-_Rather_Be_feat_Jess_Glynne_(Robin_Schulz_Remix)",
+  },
+  Object {
+    "id": "mNNfZuIA1GQ",
+    "name": "Robin_Schulz_&_Alligatoah_-_Willst_Du_(Official_Video)",
+  },
+  Object {
+    "id": "C_Ka9cWyOZs",
+    "name": "Philipp_Poisel_-_Halt_Mich_(Mirco_Niemeier_Live_Edit)",
+  },
+  Object {
+    "id": "Hyf1MB-6ObQ",
+    "name": "Gorillaz_-_Feel_Good_Inc_(The_SAME_x_Lalitia_Cover)",
+  },
+  Object {
+    "id": "IW2Qtio-7co",
+    "name": "Philipp_Dittberner_&_Marv_-_Wolke_4_(Original_Mix)",
+  },
+  Object {
+    "id": "wuCK-oiE3rM",
+    "name": "PETIT_BISCUIT_-_Sunset_Lover",
+  },
+  Object {
+    "id": "jfSc58Jk4zg",
+    "name": "Smallpools_-_Dreaming_(The_Chainsmokers_Remix)",
+  },
+  Object {
+    "id": "xeQ31jQNAVI",
+    "name": "Fedde_Le_Grand_&_Nicky_Romero_ft_Matthew_Koma_-_Sparks_(Vicetone_Remix)",
+  },
+  Object {
+    "id": "5xjp05QkDtw",
+    "name": "Bodhi_-_Good_Vibrations",
+  },
+  Object {
+    "id": "xr7TvROXnpY",
+    "name": "Henri_Pfr﻿_feat_MBP_Official﻿_&_Viage_-_Mira_Bella",
+  },
+  Object {
+    "id": "OUkkaqSNduU",
+    "name": "Disclosure_-_You_&_Me_(Flume_Remix)",
+  },
+  Object {
+    "id": "WUb8PNObii8",
+    "name": "Doctor_Y_-_Show_Me_Love_(Radio_Edit)_[OUT_NOW]",
+  },
+  Object {
+    "id": "5hEh9LiSzow",
+    "name": "Jetta_-_I'd_Love_to_Change_the_World_(Matstubs_Remix)",
+  },
+  Object {
+    "id": "wrWYQacHzts",
+    "name": "Musique_pub_Paco_Rabanne_Lady_Million_Eau_My_Gold_2014",
+  },
+  Object {
+    "id": "7y_czYn0DyI",
+    "name": "Sono_-_Supersonic_(Jovani_Remix)",
+  },
+  Object {
+    "id": "jrolhm3CES0",
+    "name": "Elliphant___Down_On_Life_(Official_Music_Video)",
+  },
+  Object {
+    "id": "SYM-RJwSGQ8",
+    "name": "Tove_Lo_-_Habits_(Stay_High)_-_Hippie_Sabotage_Remix",
+  },
+  Object {
+    "id": "8ATu1BiOPZA",
+    "name": "Lorde_-_Tennis_Court_(Flume_Remix)",
+  },
+  Object {
+    "id": "V7-yAX9ijuM",
+    "name": "Flume_-_Sleepless_feat_Jezzabell_Doran",
+  },
+  Object {
+    "id": "F3121eFE-0U",
+    "name": "Temple_Cloud_-_One_Big_Family_(Ghosts_Of_Paraguay_Glitchstep_Remix)_|FREE|",
+  },
+  Object {
+    "id": "MTr9LItiVPg",
+    "name": "Frequency_&_SoulCircuit_ft_Diia_-_Lost",
+  },
+  Object {
+    "id": "JKpzgBAgFbU",
+    "name": "[Smazané_video]",
+  },
+  Object {
+    "id": "Vh5j7zDpy-4",
+    "name": "Parra_for_Cuva_ft_Anna_Naklab_-_Wicked_Games_(Official_Music_Video)",
+  },
+  Object {
+    "id": "n1hHdA6p94w",
+    "name": "Black_Coast_-_TRNDSTTR_(Lucian_Remix)_(With_Lyrics)",
+  },
+  Object {
+    "id": "-VKChKx3czc",
+    "name": "PAFF_-_RUDEBWOY_(Official_Video_HD)",
+  },
+  Object {
+    "id": "HLFnwfzvpSM",
+    "name": "ZHU_-_Faded_(ODESZA_Remix)",
+  },
+  Object {
+    "id": "VGwlZSfqxS0",
+    "name": "Tali_-_Forces_(Trei_Remix)",
+  },
+  Object {
+    "id": "DhUsixmVnDI",
+    "name": "Flume_-_The_Greatest_View_(feat_Isabella_Manfredi)",
+  },
+  Object {
+    "id": "G7JkC9Zi8IU",
+    "name": "Ed_Sheeran_-_Thinking_Out_Loud_(Alex_Adair_Remix)",
+  },
+  Object {
+    "id": "z7Gg0RdEWQk",
+    "name": "DJ_Falcon_&_Thomas_Bangalter_-_So_Much_Love_To_Give_(Original_un-edited)_HQ",
+  },
+  Object {
+    "id": "yzCWGGG2gQc",
+    "name": "Bakermat_-_One_Day_(Vandaag)",
+  },
+  Object {
+    "id": "6RmwYjau_bs",
+    "name": "Deorro_-_Yee_(Original_Mix)",
+  },
+  Object {
+    "id": "HWy2FZdRqpU",
+    "name": "Art_Of_Flight__Deadmau5_Rob_Swire_-_Ghosts_'n'_Stuff",
+  },
+  Object {
+    "id": "zk3r-K8TQ5g",
+    "name": "ZHU_-_Faded_(Official_Video)",
+  },
+  Object {
+    "id": "8VZG1ANKeGs",
+    "name": "Burial_-_Mt_Eden_Dubstep_-_Archangel_(Bootleg)",
+  },
+  Object {
+    "id": "3Gb3faOzvBk",
+    "name": "Deadmau5_-_Ghosts_N_Stuff_(Nero_Remix)",
+  },
+  Object {
+    "id": "Nymjfq2kXnI",
+    "name": "Mt_Eden_Dubstep_-_Sarah_McLachlan_Silence",
+  },
+  Object {
+    "id": "SMny1jIfKU4",
+    "name": "DJ_Fresh_&_Sigma_-_Lassitude_(Official_Video)",
+  },
+  Object {
+    "id": "T9yGcKlYAiw",
+    "name": "Example_-_'Kickstarts'_(Official_Video)",
+  },
+  Object {
+    "id": "3OnnDqH6Wj8",
+    "name": "Flo_Rida_-_Good_Feeling_[Official_Video]",
+  },
+  Object {
+    "id": "T3yPyc5ZdNs",
+    "name": "Mt_Eden_Dubstep_-_Sierra_Leone_[HD]",
+  },
+  Object {
+    "id": "FDYIdBZUl2Y",
+    "name": "Mt_Eden_Dubstep_-_Still_Alive",
+  },
+  Object {
+    "id": "Imixg3jrJS8",
+    "name": "Ellie_Goulding_-_Lights_(Bassnectar_Remix)_[Official_Video]",
+  },
+  Object {
+    "id": "K1VLaXoRRdk",
+    "name": "Freestylers_-_Cracks_(Ft_Belle_Humble)_(Flux_Pavilion_Remix)",
+  },
+  Object {
+    "id": "sJVQJ4-n_cA",
+    "name": "Nero_-_Reaching_Out",
+  },
+  Object {
+    "id": "CLXt3yh2g0s",
+    "name": "Example_-_'Changed_The_Way_You_Kiss_Me'_(Official_Video)",
+  },
+  Object {
+    "id": "r1ATFedwjnk",
+    "name": "Nero_-_Guilt",
+  },
+  Object {
+    "id": "u0fk6syQ7iY",
+    "name": "Labrinth_ft_Tinie_Tempah_-_Earthquake_(Official_Video)",
+  },
+  Object {
+    "id": "R-jGJgKqP00",
+    "name": "Jessie_J_-_Nobody's_Perfect_(Netsky_Remix)",
+  },
+  Object {
+    "id": "wXGJUg_QEAA",
+    "name": "Camo_&_Krooked_-_Watch_It_Burn_(Ft_Ayah_Marar)(Incl_Video)",
+  },
+  Object {
+    "id": "nF7wa3j57j0",
+    "name": "Rusko_-_Somebody_To_Love_(Sigma_Remix)",
+  },
+  Object {
+    "id": "N7OPZOBJZyI",
+    "name": "DJ_Fresh_ft_Rita_Ora_-_Hot_Right_Now_[Official_Video]",
+  },
+  Object {
+    "id": "B8vlk1UR99k",
+    "name": "Sub_Focus_-_Tidal_Wave_ft_Alpines",
+  },
+  Object {
+    "id": "dVvqIS_Qb80",
+    "name": "[Smazané_video]",
+  },
+  Object {
+    "id": "K4QBTzSTCRo",
+    "name": "Axwell_-_Center_Of_The_Universe_(Koncept_Remix)",
+  },
+  Object {
+    "id": "ZwOVOSi-5nc",
+    "name": "Showtek_&_Justin_Prime_ft_Matthew_Koma_-_Cannonball_(Earthquake)_[Lyric_Video]",
+  },
+  Object {
+    "id": "bltr_Dsk5EY",
+    "name": "Afrojack_-_Ten_Feet_Tall_(Official_Lyric_Video)_ft_Wrabel",
+  },
+  Object {
+    "id": "OOevVQwQ-LM",
+    "name": "Alesso_vs_OneRepublic_-_If_I_Lose_Myself_(Alesso_Remix)",
+  },
+  Object {
+    "id": "akhmS1D2Ce4",
+    "name": "Lana_Del_Rey_vs_Cedric_Gervais_'Summertime_Sadness'_Remix",
+  },
+  Object {
+    "id": "Wb5VOQexMBU",
+    "name": "Avicii_-_You_Make_Me",
+  },
+  Object {
+    "id": "BR_DFMUzX4E",
+    "name": "Armin_van_Buuren_feat_Trevor_Guthrie_-_This_Is_What_It_Feels_Like_(Official_Music_Video)",
+  },
+  Object {
+    "id": "PEQxWg92Ux4",
+    "name": "Ed_Sheeran_&_Passenger_-_No_Diggity_vs_Thrift_Shop_(Kygo_Remix)",
+  },
+  Object {
+    "id": "UwsY_foobEw",
+    "name": "Sander_van_Doorn,_Martin_Garrix,_DVBBS_-_Gold_Skies_(ft_Aleesia)_[Official_Music_Video]_OUT_NOW",
+  },
+  Object {
+    "id": "MFiuE8JBd_8",
+    "name": "Linkin_Park_-_What_I've_Done_(Alexis_K_Dubstep_Remix)",
+  },
+  Object {
+    "id": "BbZ15klHPY4",
+    "name": "Oliver_$_&_Jimi_Jules_-_Pushing_On_(Tchami_Remix)_[Cover_Art]",
+  },
+  Object {
+    "id": "eNogqBij198",
+    "name": "Mr_Probz_feat_Chris_Brown_&_TI_-_Waves_(Robin_Schulz_Remix)_[Cover_Art]",
+  },
+  Object {
+    "id": "TnTitG18S_E",
+    "name": "Damien_Jurado_-_Ohio_(filous_Remix)_[Lyric_Video]",
+  },
+  Object {
+    "id": "kXpn8thEGbE",
+    "name": "Daft_Punk_Skrillex_Remix_-_Conte",
+  },
+  Object {
+    "id": "2juNu52zNY0",
+    "name": "C2C_-_The_Beat_(Official)",
+  },
+  Object {
+    "id": "17PM-UMVud8",
+    "name": "The_Glitch_Mob_-_Animus_Vox",
+  },
+  Object {
+    "id": "2thkapBJYfg",
+    "name": "The_Glitch_Mob_-_Bad_Wings",
+  },
+  Object {
+    "id": "hbAUwi4D3Ew",
+    "name": "The_Glitch_Mob_-_Fortune_Days",
+  },
+  Object {
+    "id": "HVpY_qIPM34",
+    "name": "The_Glitch_Mob_-_Animus_Vox",
+  },
+  Object {
+    "id": "lD6qOiO1GYk",
+    "name": "The_Uniques_-_Slovak_National_Anthem",
+  },
+  Object {
+    "id": "Ai3Ay9A7WqM",
+    "name": "Mattafix_-_Big_City_Life_(LEEX_Remix)",
+  },
+  Object {
+    "id": "CkyMqGALMoY",
+    "name": "Myon_&_Shane_54_-_Lights_(feat_Aruna)_(5vel_Remix)",
+  },
+  Object {
+    "id": "dqGxRKXeHGs",
+    "name": "Cedric_Zeyenne_-_Feel_You_(Video_HD)",
+  },
+  Object {
+    "id": "0ejKRXKrBjg",
+    "name": "Nora_En_Pure_-_Come_With_Me_(Official_Video_Full_HD)",
+  },
+  Object {
+    "id": "02HIyrhn-4Q",
+    "name": "Tom_Odell_-_Another_Love_(Zwette_Edit)_[Audio]",
+  },
+  Object {
+    "id": "KHFl3Cz4igw",
+    "name": "Muffler_-_Can_you_feel",
+  },
+  Object {
+    "id": "n1-2ZjrSSu4",
+    "name": "[Soukromé_video]",
+  },
+  Object {
+    "id": "6BMqNWTlNPQ",
+    "name": "Flo_Rida_-_How_I_Feel_[Official_Video]",
+  },
+  Object {
+    "id": "fiore9Z5iUg",
+    "name": "Lilly_Wood_&_The_Prick_and_Robin_Schulz_-_Prayer_In_C_(Robin_Schulz_Remix)_(Official)",
+  },
+  Object {
+    "id": "0z7omu2UNVA",
+    "name": "Netsky_-_Come_Alive_-_Official_Video",
+  },
+  Object {
+    "id": "tQQVgZhGc2M",
+    "name": "Sub_Focus_-_Out_The_Blue_ft_Alice_Gold",
+  },
+  Object {
+    "id": "irlW_65xkFo",
+    "name": "Matrix_&_Futurebound_ft_Luke_Bingham_-_All_I_Know_(Rolling_Out_Mix)",
+  },
+  Object {
+    "id": "nFtTY2S20mI",
+    "name": "Feint_-_One_Thousand_Dreams_[Free_EP]",
+  },
+  Object {
+    "id": "iRQFgSPGnwc",
+    "name": "Matrix_&_Futurebound_-_Control_(ft_Max_Marshall)",
+  },
+  Object {
+    "id": "YdQhxztj8Cc",
+    "name": "B-Complex_-_Beautiful_Lies_VIP",
+  },
+  Object {
+    "id": "buQgo_evoG0",
+    "name": "[Smazané_video]",
+  },
+  Object {
+    "id": "WsKZd8Y5RvI",
+    "name": "Stellamara_-_Prituri_Se_Planinata_(NiT_GriT_Remix)",
+  },
+  Object {
+    "id": "KRAMNWzfjcg",
+    "name": "[Soukromé_video]",
+  },
+  Object {
+    "id": "0YuSg4mts9E",
+    "name": "The_Naked_And_Famous_-_Young_Blood",
+  },
+  Object {
+    "id": "QCyIY10KBnk",
+    "name": "Showtek_ft_We_Are_Loud_&_Sonny_Wilson_-_Booyah_(Official_Music_Video)",
+  },
+  Object {
+    "id": "axCy9j-s0O4",
+    "name": "Omar_LinX_-_Little_Moment",
+  },
+  Object {
+    "id": "HkZwZ5xBye4",
+    "name": "Macklemore_-_Vipassana_(Ryan_Lewis_Remix)",
+  },
+  Object {
+    "id": "Wa5B22KAkEk",
+    "name": "Snoop_Dogg_&_Wiz_Khalifa_-_Young,_Wild_and_Free_ft_Bruno_Mars_[Official_Video]",
+  },
+  Object {
+    "id": "Sk9XYQMRiLY",
+    "name": "Pretty_Lights_-_Finally_Moving",
+  },
+  Object {
+    "id": "6EYFDn3gYGQ",
+    "name": "LMFAO_-_Sorry_For_Party_Rocking_[FULL_HD]_NEW_2011!_(album_Sorry_for_Party_Rocking)",
+  },
+  Object {
+    "id": "ebXbLfLACGM",
+    "name": "Calvin_Harris_-_Summer_(Official_Video)",
+  },
+  Object {
+    "id": "m-M1AtrxztU",
+    "name": "Clean_Bandit_-_Rather_Be_ft_Jess_Glynne_[Official_Video]",
+  },
+  Object {
+    "id": "BS46C2z5lVE",
+    "name": "Route_94_-_My_Love_ft_Jess_Glynne_(Official_Music_Video)",
+  },
+  Object {
+    "id": "CF7KIBKnZcg",
+    "name": "Snoop_Dogg_&_Kid_Cudi_-_That_Tree_(Hipshaker_Remix)",
+  },
+  Object {
+    "id": "-fxMThzEqlg",
+    "name": "Quintino_-_Go_Hard_(Official_Music_Video)",
+  },
+  Object {
+    "id": "JBYy8Ion_LQ",
+    "name": "MÖWE_-_Am_I_Wrong_(Bootleg)",
+  },
+  Object {
+    "id": "ktIgwt92WNA",
+    "name": "Matt_Easton_-_Live_Life_(Official_Music_Video)",
+  },
+  Object {
+    "id": "qgbaWBxLzfQ",
+    "name": "Jake_Miller_-_Like_Me_(Official_Music_Video)",
+  },
+  Object {
+    "id": "KA9zDfYio6c",
+    "name": "Flo_Rida_-_Let_It_Roll_[Official_Video]",
+  },
+  Object {
+    "id": "_y8p6uQDH4s",
+    "name": "Adventure_Club_&_Krewella_-_Rise_&_Fall",
+  },
+  Object {
+    "id": "9BYf9bIyXXg",
+    "name": "Major_Lazer_-_Get_Free_(Oscillator_Z_Remix)",
+  },
+  Object {
+    "id": "-Jq9Iwl30g0",
+    "name": "Rusko_-_Everyday_(Netsky_Dubstep_Remix)",
+  },
+  Object {
+    "id": "6BV37Dcxj9s",
+    "name": "Bakermat_-_One_Day_(Vandaag)_(Official_Video)",
+  },
+  Object {
+    "id": "uPy5igZJnVw",
+    "name": "Chet_Faker_-_I'm_Into_You",
+  },
+  Object {
+    "id": "5JQbVF8FLyk",
+    "name": "Netsky_-_Love_Has_Gone_-_Official_Video",
+  },
+  Object {
+    "id": "EpbjEttizy8",
+    "name": "David_Guetta_-_Lovers_On_The_Sun_(Lyrics_Video)_ft_Sam_Martin",
+  },
+  Object {
+    "id": "gGxigYYw-ig",
+    "name": "Laura_Welsh_-_Break_The_Fall_(Gemini_Remix)",
+  },
+  Object {
+    "id": "jo_Gjkhsm6o",
+    "name": "James_Vincent_McMorrow_-_Higher_Love_(C-ro_Edit)",
+  },
+  Object {
+    "id": "77Ms1oCiDH4",
+    "name": "Anders_Nilsen_-_Salsa_Tequila_(Official_lyric_video)",
+  },
+  Object {
+    "id": "bpOSxM0rNPM",
+    "name": "Arctic_Monkeys_-_Do_I_Wanna_Know?_(Official_Video)",
+  },
+  Object {
+    "id": "BQdwOdjhbZc",
+    "name": "BlasterJaxx_-_Faith_(Radio_Edit)",
+  },
+  Object {
+    "id": "I9687ZKbZJA",
+    "name": "creatures_lie_here,_looking_through_the_window_(Dubstep)",
+  },
+  Object {
+    "id": "BrCKvKXvN2c",
+    "name": "[Trap]_-_Aero_Chord_-_Surface_[Monstercat_Release]",
+  },
+  Object {
+    "id": "dffvSBLyQMY",
+    "name": "Fallgrapp_-_Vlasy_(Official_Video)",
+  },
+  Object {
+    "id": "SKlbCjNCDn4",
+    "name": "Seven_Lions_-_Don't_Leave_(Ft_Ellie_Goulding)",
+  },
+  Object {
+    "id": "6MKMqtdbKa4",
+    "name": "Tiësto_ft_Matthew_Koma_-_Wasted__(Ummet_Ozcan_Remix)",
+  },
+  Object {
+    "id": "Iv8CLxCD5yg",
+    "name": "Matrix_&_Futurebound_-_Control_(Ft_Max_Marshall)_(Official_Video)",
+  },
+  Object {
+    "id": "YlUKcNNmywk",
+    "name": "Red_Hot_Chili_Peppers_-_Californication_[Official_Music_Video]",
+  },
+  Object {
+    "id": "rVeMiVU77wo",
+    "name": "alt-J_(∆)_Breezeblocks",
+  },
+  Object {
+    "id": "KmJ5XWm18z4",
+    "name": "Naxxos_-_New_Orleans_(Sam_Feldt_Remix)_[OUT_NOW]",
+  },
+  Object {
+    "id": "1r74uRo3LU0",
+    "name": "Laurent_Wery_feat_Swift_KID_&_Dev_-_Hey_Hey_Hey_(Pop_Another_Bottle)_-_Official_Video",
+  },
+  Object {
+    "id": "oWYp1xRPH5g",
+    "name": "Ed_Sheeran_-_I_See_Fire_(Kygo_Remix)",
+  },
+  Object {
+    "id": "nOyOMhMDGJU",
+    "name": "SKuRR_Vs_Royal_Crown_Revue_-_Coco_Bongo_Rave_(Hey_Pachuco!)",
+  },
+  Object {
+    "id": "VA36hIOW1zM",
+    "name": "GoPro_HD_Summertime!",
+  },
+  Object {
+    "id": "e-NGBruqdT0",
+    "name": "Arbor_Skateboards__James_Kelly_UNBOUND",
+  },
+  Object {
+    "id": "0J2QdDbelmY",
+    "name": "The_White_Stripes_-_'Seven_Nation_Army'",
+  },
+  Object {
+    "id": "Qc9c12q3mrc",
+    "name": "Avicii_-_Addicted_To_You",
+  },
+  Object {
+    "id": "ESXgJ9-H-2U",
+    "name": "Kiesza_-_Hideaway_(Official_Video)",
+  },
+  Object {
+    "id": "6KKKGpAZHAA",
+    "name": "OVERWERK_-_Daybreak_(GoPro_Edit)_[Electro_House]",
+  },
+  Object {
+    "id": "j0h2u87JwyA",
+    "name": "Madeon_-_Finale",
+  },
+  Object {
+    "id": "vN2Q62uMew0",
+    "name": "Mr_Probz_-_Waves_(Robin_Schulz_Remix)",
+  },
+  Object {
+    "id": "3gxNW2Ulpwk",
+    "name": "The_xx_-_Intro",
+  },
+  Object {
+    "id": "D5Y11hwjMNs",
+    "name": "Nina_Simone__Feeling_Good",
+  },
+  Object {
+    "id": "5ESHJKat6ds",
+    "name": "Rizzle_Kicks_-_Skip_To_The_Good_Bit",
+  },
+  Object {
+    "id": "PRAWFSxK48c",
+    "name": "Ellie_Goulding_-_Your_Song_(Blackmill_Remix)",
+  },
+  Object {
+    "id": "18722onGpGw",
+    "name": "Dirty_Paws_-_Of_Monsters_and_Men_(Lyrics_Video)",
+  },
+  Object {
+    "id": "BGpzGu9Yp6Y",
+    "name": "Skrillex_&_Damian_Jr_Gong_Marley_-_Make_It_Bun_Dem_[OFFICIAL_VIDEO]",
+  },
+  Object {
+    "id": "k1uUIJPD0Nk",
+    "name": "C2C_-_Down_the_Road_(Official)",
+  },
+  Object {
+    "id": "x6ksUK16ZiE",
+    "name": "Dubstep_-_Ellie_Goulding_-_High_For_This_(PatrickReza_Dubstep_Remix)_(Free_Download)",
+  },
+  Object {
+    "id": "IUGzY-ihqWc",
+    "name": "Blue_Foundation_-_Eyes_On_Fire_(Zeds_Dead_Remix)",
+  },
+  Object {
+    "id": "qMmf7gQePf8",
+    "name": "Cillo_-_Breathe_(Vocal_Mix)",
+  },
+  Object {
+    "id": "gkime9M4z34",
+    "name": "Stephen_Swartz_--_Bullet_Train_(Feat_Joni_Fatora)",
+  },
+  Object {
+    "id": "kY-GOD1j5kw",
+    "name": "Metric_-_Collect_Call_(Adventure_Club_Dubstep_Remix)",
+  },
+  Object {
+    "id": "2XG_0iV2B40",
+    "name": "Foxes_-_Youth_(Adventure_Club_Remix)",
+  },
+  Object {
+    "id": "ZeaIvjoH1FY",
+    "name": "Flight_Facilities_-_Crave_You_(Adventure_Club_Dubstep_Remix)",
+  },
+  Object {
+    "id": "PH4JPgVD2SM",
+    "name": "Kanye_West_-_Amazing_ft_Young_Jeezy",
+  },
+  Object {
+    "id": "ygAHo1ivFwY",
+    "name": "Zoo_Brazil_feat_Rasmus_Kellerman_-_There_is_Hope_(unofficial)",
+  },
+  Object {
+    "id": "bBJ4M2sWAKk",
+    "name": "GoPro_HERO_3_-_Park-Skiing_1|_Full_HD",
+  },
+  Object {
+    "id": "_2XmLcnYSwQ",
+    "name": "LA_ROUX_-_IN_FOR_THE_KILL_(SKREAM_REMIX)",
+  },
+  Object {
+    "id": "oABEGc8Dus0",
+    "name": "Rudimental_-_Feel_The_Love_ft_John_Newman_[Official_Video]",
+  },
+  Object {
+    "id": "RNuUgbUzM8U",
+    "name": "DJ_Fresh_-_'Gold_Dust'_(Official_Video)",
+  },
+  Object {
+    "id": "xi20Si3jRIo",
+    "name": "NOHA_-__Tu_Cafe´",
+  },
+  Object {
+    "id": "bkk2H3Ztrfk",
+    "name": "Disclosure_-_White_Noise_ft_AlunaGeorge_(Official_Video)",
+  },
+  Object {
+    "id": "OOxRJSkrhvk",
+    "name": "Beatbustlers_-_Lights",
+  },
+  Object {
+    "id": "Y0yMlEiuVmg",
+    "name": "MALALATA_-_Pohoda_festival_2013",
+  },
+  Object {
+    "id": "0XFudmaObLI",
+    "name": "Aaron_Smith_-_Dancin_(KRONO_Remix)",
+  },
+  Object {
+    "id": "AW6RMNzYwG4",
+    "name": "Fallgrapp_-_INA_(Official_Video)",
+  },
+  Object {
+    "id": "E-I5dSEEQTw",
+    "name": "The_XX_-_Intro_(Dimitri_Vegas_&_Like_Mike_&_Sander_Van_Doorn_Bootleg_Mix)_ABGT_045_[HD]",
+  },
+  Object {
+    "id": "EsGiBwK4Ycc",
+    "name": "Yuna_-_Lullabies_(Adventure_Club_Remix)",
+  },
+  Object {
+    "id": "DYgwKCAw0nE",
+    "name": "DUB_FX_-_Made_[_Female_Longboard_Crew_]_HQ_••",
+  },
+  Object {
+    "id": "i2SgeROkuxQ",
+    "name": "Imagine_Dragons_-_On_Top_Of_The_World_(RAC_Mix)",
+  },
+  Object {
+    "id": "FiYorJaQlYo",
+    "name": "Gostan_-_Klanga",
+  },
+  Object {
+    "id": "hFYsT01RFX0",
+    "name": "Mykool_-_Breathe_(Remastered)",
+  },
+  Object {
+    "id": "sUoWkRggVig",
+    "name": "Tube_&_Berger_-_Imprint_Of_Pleasure_(Original_Mix)",
+  },
+  Object {
+    "id": "M97vR2V4vTs",
+    "name": "Rudimental_-_Waiting_All_Night_ft_Ella_Eyre_[Official_Video]",
+  },
+  Object {
+    "id": "I9QGpHScGug",
+    "name": "Wilkinson_-_Afterglow",
+  },
+  Object {
+    "id": "3Q9rewnLFYw",
+    "name": "Flux_Pavilion_-_I_Can't_Stop",
+  },
+  Object {
+    "id": "GUEZCxBcM78",
+    "name": "The_HD_HERO2_Almost_as_Rad_as_the_HERO3",
+  },
+  Object {
+    "id": "A3PDXmYoF5U",
+    "name": "GoPro_HERO3_Almost_as_Epic_as_the_HERO3+",
+  },
+  Object {
+    "id": "ogMNV33AhCY",
+    "name": "Pendulum_-_Witchcraft_(Official_Video)",
+  },
+  Object {
+    "id": "_ovdm2yX4MA",
+    "name": "Avicii_-_Levels",
+  },
+  Object {
+    "id": "5y_KJAg8bHI",
+    "name": "Avicii_-_Wake_Me_Up_(Lyric_Video)",
+  },
+  Object {
+    "id": "YxIiPLVR6NA",
+    "name": "Avicii_-_Hey_Brother_(Lyric)",
+  },
+  Object {
+    "id": "ffsPRJqoRmk",
+    "name": "Thomas_Newman_-_Ghosts_(Aaron_Static_&_Fort_Road_Remix)",
+  },
+]
+`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs:   1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs:  1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs:  2`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: [object Object] 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 0 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 11 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 222 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 3333 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 44444 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 555555 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 6666666 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 77777777 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 888888888 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 9999999999 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: 123456789012 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: NaN 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: aaaaaaaaaaa 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: false 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: null 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: null 2`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: true 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: undefined 1`] = `false`;
+
+exports[`Testing youtu-get package Testing getYoutubeInfo function with uncorrect inputs: undefined 2`] = `false`;
