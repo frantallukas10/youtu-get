@@ -39,11 +39,7 @@ const getData = async page => {
               'div ytd-playlist-video-renderer #meta #video-title'
             )
             [index].getAttribute('title')
-            .replace(/\*/g, '')
-            .replace('//', '')
-            .replace(/\:|\"|\./g, '')
-            .replace(/\//g, '')
-            .replace(/_/g, '')
+            .replace(/[\\/:*?\'<>|\/\/\.]/g, '')
             .trim()
             .replace(/ /g, '_')
         });
