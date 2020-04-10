@@ -1,9 +1,10 @@
 const { isSpinnerVisible, scrollToBottom, getData } = require('./helpers.js');
 const puppeteer = require('puppeteer');
 
-const isValidId = id => !Boolean(/^[\w\-]{12,}$/.exec(id)) || id.length !== 34;
+const isValidId = (id) =>
+  !Boolean(/^[\w\-]{12,}$/.exec(id)) || id.length !== 34;
 
-const getYoutubeInfo = async id => {
+const getYoutubeInfo = async (id) => {
   if (isValidId(id)) {
     return false;
   }
@@ -11,14 +12,14 @@ const getYoutubeInfo = async id => {
     headless: true,
     defaultViewport: null,
     args: ['--start-maximized'],
-    timeout: 10000
+    timeout: 10000,
   });
 
   const page = (await browser.pages())[0];
 
   await page.setRequestInterception(true);
 
-  await page.on('request', req => {
+  await page.on('request', (req) => {
     if (
       req.resourceType() === 'image' ||
       req.resourceType() === 'stylesheet' ||

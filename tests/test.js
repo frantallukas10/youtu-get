@@ -37,10 +37,10 @@ describe('Testing youtu-get package', () => {
     false,
     true,
     'undefined',
-    'null'
+    'null',
   ];
 
-  wrongInputs.map(input =>
+  wrongInputs.map((input) =>
     test(`Testing getYoutubeInfo function with uncorrect inputs: ${input}`, async () => {
       expect(await getYoutubeInfo(input)).toMatchSnapshot();
     })

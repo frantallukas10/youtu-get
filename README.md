@@ -2,7 +2,7 @@
 
 is project which can get your all name of songs and url from your youtube playlist. It returns array with name of songs and url as objects and the returned data can be save as json file. As my example, but it is optional if you define `output` variable.
 
-# [demo](https://youtu-get.lukasfrantal.com)
+# [demo](https://youtu-get-demo.lukasfrantal.com)
 
 ![NPM](https://img.shields.io/npm/l/youtu-get)
 ![npm](https://img.shields.io/npm/v/youtu-get)
@@ -31,7 +31,7 @@ ytget id="PLxQ30nUCB0uNCCKBD_JW1udM7iYH27cu2" output="/yourOutputPath/youtube-pl
 const { getYoutubeInfo } = require('youtu-get');
 
 const idPlaylist = 'PLxQ30nUCB0uNCCKBD_JW1udM7iYH27cu2';
-getYoutubeInfo(idPlaylist).then(data => console.log(data));
+getYoutubeInfo(idPlaylist).then((data) => console.log(data));
 ```
 
 ## If you want save output data yout can do it like this:
@@ -48,8 +48,8 @@ const outputPath = path.resolve(
   'youtube-playlist.json'
 );
 
-getYoutubeInfo(idPlaylist).then(data => {
-  fs.writeFile(outputPath, JSON.stringify(data, null, 2), err => {
+getYoutubeInfo(idPlaylist).then((data) => {
+  fs.writeFile(outputPath, JSON.stringify(data, null, 2), (err) => {
     if (err) console.error(err);
   });
 });

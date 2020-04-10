@@ -12,10 +12,10 @@ export default class MyDocument extends Document {
     try {
       ctx.renderPage = () =>
         originalRenderPage({
-          enhanceApp: App => props =>
+          enhanceApp: (App) => (props) =>
             styledComponentSheet.collectStyles(
               materialUiSheets.collect(<App {...props} />)
-            )
+            ),
         });
 
       const initialProps = await Document.getInitialProps(ctx);
@@ -27,8 +27,8 @@ export default class MyDocument extends Document {
             {initialProps.styles}
             {materialUiSheets.getStyleElement()}
             {styledComponentSheet.getStyleElement()}
-          </React.Fragment>
-        ]
+          </React.Fragment>,
+        ],
       };
     } finally {
       styledComponentSheet.seal();

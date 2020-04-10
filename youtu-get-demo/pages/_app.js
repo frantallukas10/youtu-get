@@ -1,9 +1,8 @@
-import React from 'react';
 import NextApp from 'next/app';
 import Head from 'next/head';
 import {
   ThemeProvider as StyledThemeProvider,
-  createGlobalStyle
+  createGlobalStyle,
 } from 'styled-components';
 import { ThemeProvider as MaterialThemeProvider } from '@material-ui/core/styles';
 import reset from 'styled-reset';
@@ -26,10 +25,13 @@ const GlobalStyle = createGlobalStyle`
 
   html, body {
     height: 100%;
+    overflow: hidden;
+    
     > div {
       color: ${({ theme }) => theme.default.color};
       background: ${({ theme }) => theme.default.background};
       height: 100%;
+      overflow: auto;
     }
   }
 `;

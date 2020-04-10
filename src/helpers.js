@@ -1,8 +1,8 @@
-const isSpinnerVisible = async page => {
+const isSpinnerVisible = async (page) => {
   return await page.evaluate(() => Boolean(document.getElementById('spinner')));
 };
 
-const scrollToBottom = async page => {
+const scrollToBottom = async (page) => {
   await page.evaluate(() => {
     window.scrollTo(
       0,
@@ -11,7 +11,7 @@ const scrollToBottom = async page => {
   });
 };
 
-const getData = async page => {
+const getData = async (page) => {
   return await page.evaluate(() => {
     const playlist = [];
 
@@ -41,7 +41,7 @@ const getData = async page => {
             [index].getAttribute('title')
             .replace(/[\\/:*?\'<>|\/\/\.\"]/g, '')
             .trim()
-            .replace(/ /g, '_')
+            .replace(/ /g, '_'),
         });
       });
     return playlist;

@@ -8,101 +8,123 @@ import {
   InputLabel,
   OutlinedInput,
   InputAdornment,
-  IconButton
+  IconButton,
 } from '@material-ui/core';
-import { Delete, AddCircleOutline } from '@material-ui/icons';
+import { Delete, GetApp } from '@material-ui/icons';
 import clsx from 'clsx';
-import { getYoutubeInfo, isValidId } from 'youtu-get';
 import Results from '../../components/Results';
+import Spinner from '../../components/Spinner';
+import axios from 'axios';
 
 const WrapperInput = styled.div`
   background: ${({ theme }) => theme.secondary.background};
 `;
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   subTitle: {
+    wordBreak: 'break-all',
     color: 'inherit',
-    padding: theme.spacing(2, 3)
+    padding: theme.spacing(2, 3),
   },
   formControl: {
     '& label.Mui-focused': {
-      color: 'inherit'
+      color: 'inherit',
     },
     '& .MuiOutlinedInput-root': {
       '& fieldset': {
-        borderColor: 'inherit'
+        borderColor: 'inherit',
       },
       '&:hover fieldset': {
-        borderColor: 'inherit'
+        borderColor: 'inherit',
       },
       '&.Mui-focused fieldset': {
-        borderColor: 'inherit'
-      }
+        borderColor: 'inherit',
+      },
     },
     '& .MuiSvgIcon-root': {
-      color: theme.default.color
+      color: theme.default.color,
     },
     margin: theme.spacing(0, 0, 3),
-    maxWidth: '400px',
-    width: '100%'
+    maxWidth: '800px',
+    width: '100%',
   },
   notValid: {
     color: 'red',
 
     '& label.Mui-focused': {
-      color: 'inherit'
+      color: 'inherit',
     },
     '& .MuiOutlinedInput-root': {
       '& fieldset': {
-        borderColor: 'inherit'
+        borderColor: 'inherit',
       },
       '&:hover fieldset': {
-        borderColor: 'inherit'
+        borderColor: 'inherit',
       },
       '&.Mui-focused fieldset': {
-        borderColor: 'inherit'
-      }
+        borderColor: 'inherit',
+      },
     },
     '& .MuiInputAdornment-positionEnd:nth-child(3) .MuiSvgIcon-root': {
-      color: 'red'
-    }
+      color: 'red',
+    },
   },
   outlinedInput: {
-    color: 'inherit'
+    color: 'inherit',
+    '& input:-webkit-autofill, & input:-webkit-autofill:hover, & input:-webkit-autofill:focus': {
+      '-webkit-text-fill-color': theme.default.color,
+      '-webkit-box-shadow': '0 0 0px 1000px inherit inset',
+      transition: 'background-color 5000s ease-in-out 0s',
+    },
+    '& Mui-focused': {
+      borderWidth: 1,
+      backgroundColor: '#393e46',
+    },
   },
   inputLabel: {
-    color: 'inherit'
-  }
+    color: 'inherit',
+  },
 }));
 
 const Body = () => {
   const classes = useStyles();
   const [value, setValue] = React.useState('');
-  const [isValid, setIsValid] = React.useState(false);
-  const [results, setResults] = React.useState(false);
+  const [isValid, setIsValid] = React.useState(true);
+  const [results, setResults] = React.useState([]);
+  const [loading, setLoading] = React.useState(false);
 
-  const handleChange = event => {
+  const handleChange = (event) => {
     setValue(event.target.value);
-    setIsValid(false);
+    setIsValid(true);
   };
 
   const handleRemoveValue = () => {
     setValue('');
-    setResults(false);
-    setIsValid(false);
+    setResults([]);
+    setIsValid(true);
   };
 
-  const handleMouseDown = event => {
+  const handleMouseDown = (event) => {
     event.preventDefault();
   };
 
-  const getInfo = value => setResults(getYoutubeInfo(value));
-
-  const handleSubmit = () => {
-    setIsValid(isValidId(value));
-    if (!isValid) {
-      getInfo(value);
-    }
+  const handleSubmit = async () => {
+    setLoading(true);
+    await axios
+      .post(`/api/getData?youtubeId=${value}`)
+      .then((res) => {
+        setResults(res.data);
+        setTimeout(() => {
+          setIsValid(true);
+          setLoading(false);
+        }, 500);
+      })
+      .catch(() => {
+        setTimeout(() => {
+          setIsValid(false);
+          setLoading(false);
+        }, 500);
+      });
   };
 
   return (
@@ -113,7 +135,7 @@ const Body = () => {
             Example youtube playlist id: PLxQ30nUCB0uNCCKBD_JW1udM7iYH27cu2
           </Typography>
           <FormControl
-            className={clsx(classes.formControl, isValid && classes.notValid)}
+            className={clsx(classes.formControl, !isValid && classes.notValid)}
             variant="outlined"
             align="left"
           >
@@ -126,11 +148,11 @@ const Body = () => {
               </Typography>
             </InputLabel>
             <OutlinedInput
-              onKeyPress={event => event.key === 'Enter' && handleSubmit()}
+              onKeyPress={(event) => event.key === 'Enter' && handleSubmit()}
               className={clsx(classes.outlinedInput)}
               id="input-time"
               type="text"
-              error={isValid}
+              error={!isValid}
               value={value}
               onChange={handleChange}
               endAdornment={
@@ -153,7 +175,7 @@ const Body = () => {
                         onMouseDown={handleMouseDown}
                         edge="end"
                       >
-                        <AddCircleOutline className={clsx(classes.icon)} />
+                        <GetApp className={clsx(classes.icon)} />
                       </IconButton>
                     </InputAdornment>
                   </>
@@ -161,19 +183,18 @@ const Body = () => {
               }
               labelWidth={183}
             />
-            {isValid && (
+            {!isValid && (
               <Typography variant="body1">
                 This input: "{value}" is wrong
                 <br />
-                please define correct your youtube playlist id!
+                Please define correct your youtube playlist id!
               </Typography>
             )}
           </FormControl>
         </Container>
       </WrapperInput>
-      <Container align="center">
-        <Results results={results} />
-      </Container>
+      {loading && <Spinner />}
+      {results.length > 0 && <Results results={results} />}
     </>
   );
 };
